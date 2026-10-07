@@ -1,0 +1,7 @@
+# Ảnh/video sản phẩm và kết quả tạo ra — không đưa lên GitHub
+Ảnh sản phẩm/
+output/
+
+# File tạm của Playwright / Claude Code
+.playwright-mcp/
+.claude/settings.local.json

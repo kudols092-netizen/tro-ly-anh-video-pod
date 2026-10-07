@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest", "--extension"],
+      "env": {
+        "PLAYWRIGHT_MCP_PROFILE_DIR_NAME": "TaoanhAI"
+      }
+    }
+  }
+}
